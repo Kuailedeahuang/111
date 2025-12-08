@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/tl/None/common.rpy", line 4: The `translate None` statement (without style or python) is not allowed. Use say with id instead. (https://www.renpy.org/doc/html/translation.html#tips)
+    translate None start:
+                         ^
+
+Ren'Py Version: Ren'Py 8.3.7.25031702
+Tue Dec  2 08:28:18 2025

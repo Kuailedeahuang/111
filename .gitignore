@@ -1,0 +1,26 @@
+# Node.js
+node_modules/
+npm-debug.log*
+
+# Build outputs
+dist/
+build/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE files
+.vscode/
+.idea/
+
+# Game specific
+*.rpyc  # Ren'Py compiled files
+*.rpa   # Ren'Py archive files
